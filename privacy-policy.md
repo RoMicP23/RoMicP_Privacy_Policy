@@ -1,7 +1,8 @@
 Privacy Policy  
 ----------------
 ### Interpretation 
-BioApps provides prosthetic and orthotic services to patients from Universiti Malaya’s Medical Centre and all other public and private hospitals in Malaysia. Amputees come to us to get their artificial limbs, custom made shoes, and custom made insoles.
+BioApps provides prosthetic and orthotic services to patients from Universiti Malaya’s Medical Centre and all other public and private hospitals in Malaysia. Amputees come to us to get their artificial limbs, custom made shoes, and custom made insoles. RoMicP™ ankle joint is a powered ankle-foot empowered by advanced AI control system and high-power AC-motor, the device will provide below and above kneee amputees with fully active robotic ankle-foot. The system actuator and mechanism are designed to produce hightorque equal to the biological ankle-foot, which can reduce falling risk and metabolic cost of
+transport.
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at *BioApps*, how *RoMicP* uses it, and what choices you have.
