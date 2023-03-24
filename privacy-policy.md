@@ -1,5 +1,7 @@
 Privacy Policy  
 ----------------
+### Interpretation 
+BioApps provides prosthetic and orthotic services to patients from Universiti Malaya’s Medical Centre and all other public and private hospitals in Malaysia. Amputees come to us to get their artificial limbs, custom made shoes, and custom made insoles.
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at *BioApps*, how *RoMicP* uses it, and what choices you have.
