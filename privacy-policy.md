@@ -29,8 +29,11 @@ We collect information and/or data from your device in some cases. The informati
 We may employ third-party companies and individuals due to the following reasons:  
 
 (i)	  To facilitate our Service;
+
 (ii)	To provide the Service on our  behalf; 
+
 (iii)	To perform Service-related services; or
+
 (iv)	To assist us in analyzing how our Service is used.
 
 
