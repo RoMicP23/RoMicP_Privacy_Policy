@@ -1,4 +1,6 @@
-***Declaration of Personal Data usagee
+Terms of Service  
+----------------
+###Declaration of Personal Data usagee
 
 Under the Personal Data Protection Act (‘PDPA’) 2010, BioApp Snd. Bhd. (“the Company”) is required to obtain your explicit consent when the Company collect and process your personal/technical data (“data”) including as listed below: -
 1.	Name; 
